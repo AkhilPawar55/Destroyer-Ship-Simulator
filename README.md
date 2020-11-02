@@ -1,4 +1,4 @@
-wqDestroyer Ship Simulator 
+Destroyer Ship Simulator 
 Introduction
 There is a Destroyer Ship named INS Kolkata, you are the operator of this ship and your task is to provide the operational picture of the battlefield. There can be 3 categories of targets (friendly and foe) namely air, surface and subsurface. Targets can have different identities namely friendly, hostile and neutral.
 There are times when the sensors (radars and sonars) don’t work due to some technical difficulties, at such times making a strategic decision becomes very important. Although the ship sensors are down, you have access of secret intelligence of the positions of the targets, you as an operator must take control of situation and provide a combat view of battlefield to make strategic decisions.
